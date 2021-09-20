@@ -1,3 +1,1 @@
-# js-omnfke
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-omnfke)
+cearch FIRST uniq symbol in string
