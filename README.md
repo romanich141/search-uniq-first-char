@@ -1,1 +1,1 @@
-cearch FIRST uniq symbol in string
+search FIRST uniq symbol in string
